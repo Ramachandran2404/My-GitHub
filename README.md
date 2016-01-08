@@ -1,5 +1,4 @@
 # hello-world
 My first GitHub
-
-mutton kuskava
-iyyanar
+ 
+this is my new git up changes
